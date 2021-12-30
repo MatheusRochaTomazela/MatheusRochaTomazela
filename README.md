@@ -33,7 +33,6 @@
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5541988406888" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/profiles/76561198931613228/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31yxn3qtudik7cbk6ycnwwkcpk2y" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-tomazela-519829170/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
   ![Snake animation](https://github.com/MatheusRochaTomazela/MatheusRochaTomazela/blob/output/github-contribution-grid-snake.svg)
   

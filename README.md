@@ -1,7 +1,7 @@
 ### Olá Pessoal, sou o Matheus Tomazela! 👋
 
 
-- 🔭 Trabalho no Laboratório Caboracy Kosop como Assistente de Suporte Tecnico!!!!!
+- 🔭 Trabalho no Laboratório Caboracy Kosop como Assistente de Suporte Tecnico.
 - 🌱 Estou sempre aprendendo, mas focando atualmentem em JAVA e já olhando para PYTHON.
 - 👯 Estou buscando oportunidade de participar de algum projeto em programação em geral.
 - 👨‍🎓 Cursando Engenharia de Software 

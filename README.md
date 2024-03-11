@@ -1,10 +1,10 @@
 ### Olá Pessoal, sou o Matheus Tomazela! 👋
 
 
-- 🔭 Atualmente desempregado, mas estudando linguagens de programação.
+- 🔭 Suporte da Cargill, empregado pela Wipro Technologies.
 - 🌱 Estou sempre aprendendo, mas focando atualmentem em JAVA e já olhando para PYTHON.
 - 👯 Estou buscando oportunidade de participar de algum projeto em programação em geral.
-- 👨‍🎓 Cursando Engenharia de Software 
+- 👨‍🎓 Formado em Engenharia de software pela universidade Unibrasil.
 - 💬 Me pergunte qualquer coisa, vamos conversar...
 
 

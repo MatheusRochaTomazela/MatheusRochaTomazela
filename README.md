@@ -2,7 +2,7 @@
 
 
 - 🔭 Suporte da Cargill, empregado pela Wipro Technologies.
-- 🌱 Estou sempre aprendendo, mas focando atualmentem em JAVA e já olhando para PYTHON.
+- 🌱 Estou sempre aprendendo, mas focando atualmentem WEB.
 - 👯 Estou buscando oportunidade de participar de algum projeto em programação em geral.
 - 👨‍🎓 Formado em Engenharia de software pela universidade Unibrasil.
 - 💬 Me pergunte qualquer coisa, vamos conversar...

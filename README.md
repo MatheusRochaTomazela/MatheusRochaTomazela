@@ -1,9 +1,9 @@
 ### Olá Pessoal, sou o Matheus Tomazela! 👋
 
 
-- 🔭 Suporte da Cargill, empregado pela Wipro Technologies.
-- 🌱 Estou sempre aprendendo, mas focando atualmentem WEB.
-- 👯 Estou buscando oportunidade de participar de algum projeto em programação em geral.
+- 🔭 Em busca de uma grande oportunidade de emprego.
+- 🌱 Estou sempre aprendendo, mas focando QA e Suporte.
+- 👯 Estou buscando oportunidade de participar de algum projeto QA e testes de software.
 - 👨‍🎓 Formado em Engenharia de software pela universidade Unibrasil.
 - 💬 Me pergunte qualquer coisa, vamos conversar...
 
